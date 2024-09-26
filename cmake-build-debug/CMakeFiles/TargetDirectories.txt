@@ -1,0 +1,3 @@
+/Users/dorantvelija/CLionProjects/login-register-cpp/cmake-build-debug/CMakeFiles/login_register_cpp.dir
+/Users/dorantvelija/CLionProjects/login-register-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dorantvelija/CLionProjects/login-register-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

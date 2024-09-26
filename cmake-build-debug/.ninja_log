@@ -1,0 +1,5 @@
+# ninja log v5
+0	52	1726146994960706890	build.ninja	e19bb27932a8c869
+4	282	1726144187701360573	CMakeFiles/login_register_cpp.dir/main.cpp.o	3ad1caa7278ee360
+336	369	1726146813481689590	login_register_cpp	63e1e3ce8f426a5
+5	335	1726146813446159400	CMakeFiles/login_register_cpp.dir/user_management.cpp.o	4ad6bb39086bf55d
